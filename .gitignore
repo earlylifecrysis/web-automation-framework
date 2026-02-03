@@ -205,3 +205,25 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Allure
+=allure-results/
+allure-results/
+allure-report/
+
+# ChromeDriver и его файлы (Windows)
+chromedriver.exe
+LICENSE.chromedriver
+THIRD_PARTY_NOTICES.chromedriver
+
+# Для Linux/Mac
+chromedriver
+geckodriver
+
+# Скриншоты тестов
+*.png
+*.jpg
+*.jpeg
+
+# HTML отчеты pytest
+report.html
