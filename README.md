@@ -128,7 +128,7 @@ web-automation-framework/
 
 \- Пользователь: `performance_glitch_user`
 
-\- Пароль:\*\* `secret_sauce`
+\- Пароль: `secret_sauce`
 
 \- Ожидаемый результат: Успешный переход на страницу товаров, несмотря на возможные задержки
 
